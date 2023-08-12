@@ -1,0 +1,26 @@
+body {
+    margin: 100px 400px 100px 400px;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+form {
+    box-sizing: 100%x;
+    text-align: center;
+}
+
+.glow {
+    display: flex;
+    justify-content: center;
+    align-items: 180px;
+    width: 500px;
+    padding: 1.5rem;
+    margin: 25px;
+    background: white;
+    color: #48abe0;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 50px #48abe0;
+}
